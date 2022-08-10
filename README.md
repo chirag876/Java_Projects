@@ -1,6 +1,6 @@
-# Projects-Ch
+# Java_Projects
 
-**All the projects which I create are uploaded here.**
+** Projects made using java programming language. **
 
 # Brick Breaker Game
 
