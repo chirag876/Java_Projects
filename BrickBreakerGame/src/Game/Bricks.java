@@ -35,10 +35,11 @@ public class Bricks
 					g.setStroke(new BasicStroke(3));
 					g.setColor(Color.black);
 					g.drawRect(j*brickwidth + 80, i*brickheight + 50, brickwidth, brickheight);
-				}
-}
-}
-}
+		}
+			}
+			
+			}
+		}
 	public void setBrickValue(int value, int row , int col)
 	{
 		map[row][col] = value;
