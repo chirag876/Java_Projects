@@ -1,6 +1,6 @@
 # Java_Projects
 
-** Projects made using java programming language. **
+**Projects made using java programming language.**
 
 # Brick Breaker Game
 
