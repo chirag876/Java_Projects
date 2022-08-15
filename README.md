@@ -16,7 +16,7 @@
 
 ![Clock](https://user-images.githubusercontent.com/108919262/183283333-ccb62898-a618-41bb-95f9-0d5e4420a583.png)
 
-**For creating a digital clock I used JFrame JLabel and Timer class fromthe Swing framework. The JFrame class is used to construct a toplevelwindow for clock. The JLabel class is used to display a string and theTimer class is used to fire events at specified intervals.**
+**For creating a digital clock I used JFrame JLabel and Timer class from the Swing framework. The JFrame class is used to construct a top level window for clock. The JLabel class is used to display a string and the Timer class is used to fire events at specified intervals.**
 
 
 
