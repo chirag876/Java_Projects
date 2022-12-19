@@ -19,7 +19,7 @@
 ![image](https://user-images.githubusercontent.com/108919262/208469232-0a9c251e-7b86-4150-9011-7023a4e15b8f.png)
 ![image](https://user-images.githubusercontent.com/108919262/208469280-e1e494de-7180-4fe5-b4b2-7447c3e92d58.png)
 
-** I created a chat application application with the help of java swing and socket programing. In this i created two classes sender and receiver where i created the layout for sending the text and receiving the text using java swing and to connect sender and receiver layout socket programing is used.**
+**I created a chat application application with the help of java swing and socket programing. In this i created two classes sender and receiver where i created the layout for sending the text and receiving the text using java swing and to connect sender and receiver layout socket programing is used.**
 
 
 
